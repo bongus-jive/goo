@@ -1,0 +1,14 @@
+[
+  [
+    {"op": "test", "path": "/builder"},
+    {"op": "move", "from": "/builder", "path": "/pat_goo_oldBuilder"}
+  ],
+  [
+    {"op": "add", "path": "/builder", "value": "/objects/apex/greenflask/pat_goo.lua"},
+    
+    {"op": "add", "path": "/pat_gooStrings", "value": {
+      "human": "To me, goo is strange. It is an unusual substance.",
+      "__default": "To me, goo is quite normal. I use goo in every day life."
+    }}
+  ]
+]

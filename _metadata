@@ -1,0 +1,9 @@
+{
+  "version" : "1.0",
+  "author" : "patman",
+  "description" : "changes the racial scan descriptions of 'Green Flask'\n\nhumans think the goo is strange\nevery other race thinks the goo is quite normal\nworks with all modded races\n\n\n[img]https://i.imgur.com/wXjYMqP.gif[/img]https://discord.gg/GdsQSgV\n[img]https://i.imgur.com/uyG8oTa.gif[/img]https://www.patreon.com/pathiccstar\n\n[img]https://media.discordapp.net/attachments/422097510417301519/967529620347949116/do_this.gif[/img]",
+  "name" : "pat_goo",
+  "friendlyName" : "goo",
+  "steamContentId" : "3007467003",
+  "link" : "steam://url/CommunityFilePage/3007467003"
+}
